@@ -1,7 +1,7 @@
 * Starting from python series
 * First Numpy series
 * Second pandas series
-* matplotlib
-* seaborn
-* project
-* handling_missing_values
+* Third matplotlib 
+* Fourth seaborn
+* Fifth project
+* Sixth handling_missing_values
