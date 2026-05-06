@@ -1,4 +1,4 @@
-Starting from python series
+* Starting from python series
 * First Numpy series
 * Second pandas series
 * matplotlib
